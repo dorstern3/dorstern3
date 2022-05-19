@@ -1,4 +1,4 @@
-### 👋 Hi there ,I'm Dor stern
+### 👋 Hello everyone, I'm Dor stern
 
 <!--
 **dorstern3/dorstern3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
