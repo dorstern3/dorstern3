@@ -1,24 +1,8 @@
 ### 👋 Hello everyone, I'm Dor stern
 
-<!--
-**dorstern3/dorstern3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Connect with me:
 <a href="https://linkedin.com/in/dor-stern-4b678623a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorstern3@gmail.com" height="30" width="40" /></a>
 </p>
-
 
 
 ## Skills:
@@ -58,8 +42,7 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">   
   
 
-## static 
+<!-- ## static  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorstern3)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorstern3)](https://github.com/anuraghazra/github-readme-stats) 
+-->
