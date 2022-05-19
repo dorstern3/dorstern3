@@ -62,4 +62,4 @@ Here are some ideas to get you started:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorstern3)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dorstern3)  
+
