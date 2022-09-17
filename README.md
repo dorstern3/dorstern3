@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on **Full Stack projects**.  
 - 🌱 I’m currently learning about **Embedded Systems**. 
 - 👯 I’m looking to collaborate on **Open Source projects**.
-- 💬 Ask me about **Anything you want**. 
-- ⚡ Fun fact: **like to practice sports and program in my free time**. 
+
 
 
 ##  Connect with me :
