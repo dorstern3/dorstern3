@@ -6,8 +6,6 @@
 - 📝 I’m currently learning about **Embedded Systems**. 
 - 🤝 I’m looking to collaborate on **Open Source projects**.
 
-
-
 ##  Connect with me :
 <a href="https://linkedin.com/in/dor-stern-4b678623a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorstern3@gmail.com" height="30" width="40" /></a>
 </p>
