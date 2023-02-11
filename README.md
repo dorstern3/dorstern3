@@ -2,7 +2,7 @@
 
 ## :raising_hand_man: About me:
 
-- ⚡ I’m currently working on **Full Stack projects**.  
+- ⚡ I’m currently working on **Embedded Systems**.  
 - 📝 I’m currently learning about **Embedded Systems**. 
 - 🤝 I’m looking to collaborate on **Open Source projects**.
 
