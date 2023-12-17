@@ -2,8 +2,8 @@
 
 ## :raising_hand_man: About me:
 
-- ⚡ I’m currently working on **Embedded Systems projects**.  
-- 📝 I’m currently learning about **Embedded Systems**. 
+- ⚡ I’m currently working on **Mobile Application**.  
+- 📝 I’m currently learning about **Flutter**. 
 - 🤝 I’m looking to collaborate on **Open Source projects**.
 
 ##  Connect with me :
