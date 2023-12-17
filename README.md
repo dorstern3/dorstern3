@@ -1,4 +1,4 @@
-### 👋 I'm Dor Stern 	
+
 
 ## :raising_hand_man: About me:
 
