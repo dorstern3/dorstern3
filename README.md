@@ -1,4 +1,4 @@
-### 👋 Hello everyone, I'm Dor Stern 	:computer: :iphone: :e-mail:
+### 👋 Hello everyone, I'm Dor Stern 	
 
 ## :raising_hand_man: About me:
 
