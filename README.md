@@ -1,10 +1,6 @@
 
 
-## :raising_hand_man: About me:
 
-- ⚡ I’m currently working on **Projects in the field of Real-Time Embedded System**.  
-- 📝 I’m currently learning about **Real-Time Embedded System**. 
-- 🤝 I’m looking to collaborate on **Open Source projects**.
 
 ##  Connect with me :
 <a href="https://linkedin.com/in/dor-stern-4b678623a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorstern3@gmail.com" height="30" width="40" /></a>
